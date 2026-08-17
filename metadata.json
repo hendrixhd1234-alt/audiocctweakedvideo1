@@ -1,0 +1,13 @@
+{
+  "original_file": "videoplayback (1).mp4",
+  "container_format": "MJPEG+DFPWM in AVI",
+  "width": 480,
+  "height": 360,
+  "fps": 20,
+  "total_frames": 4554,
+  "duration": 227.741315,
+  "has_audio": true,
+  "audio_sample_rate": 48000,
+  "jpeg_quality": 55,
+  "file_size_mb": 43.12038230895996
+}
